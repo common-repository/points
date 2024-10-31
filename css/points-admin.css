@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.points-admin-line {
+	clear:both;
+}
+
+.points-admin-label {
+	min-width: 200px;
+	width: 25%;
+}

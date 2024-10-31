@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Points\n"
+"POT-Creation-Date: 2020-04-12 17:53+0200\n"
+"PO-Revision-Date: 2020-04-12 18:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: eggemplo\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/core/class-points-admin.php:45 lib/core/class-points-admin.php:46
+#: lib/core/class-points-admin.php:355
+msgid "Points"
+msgstr "Points"
+
+#: lib/core/class-points-admin.php:55 lib/core/class-points-admin.php:56
+msgid "Options"
+msgstr "Opciones"
+
+#: lib/core/class-points-admin.php:93
+msgid "Points Updated"
+msgstr "Puntos actualizados"
+
+#: lib/core/class-points-admin.php:111
+msgid "Points Removed"
+msgstr "Puntos eliminados"
+
+#: lib/core/class-points-admin.php:135
+msgid "Click to add a Points manually"
+msgstr "Click para añadir Puntos manualmente"
+
+#: lib/core/class-points-admin.php:135
+msgid "Add Points"
+msgstr "Añadir puntos"
+
+#: lib/core/class-points-admin.php:162
+msgid "Saved"
+msgstr "Guardado"
+
+#: lib/core/class-points-admin.php:169
+msgid "Points Options"
+msgstr "Opciones Points"
+
+#: lib/core/class-points-admin.php:175
+msgid "General"
+msgstr "General"
+
+#: lib/core/class-points-admin.php:178
+msgid "Points plural label"
+msgstr "Points: Nombre en plural"
+
+#: lib/core/class-points-admin.php:188
+msgid "Points singular label"
+msgstr "Points: Nombre en singular"
+
+#: lib/core/class-points-admin.php:200
+msgid "Default points status"
+msgstr "Estado por defecto de los puntos"
+
+#: lib/core/class-points-admin.php:208 lib/core/class-points-admin.php:362
+msgid "Accepted"
+msgstr "Aceptado"
+
+#: lib/core/class-points-admin.php:209 lib/core/class-points-admin.php:363
+msgid "Pending"
+msgstr "Pendiente"
+
+#: lib/core/class-points-admin.php:210 lib/core/class-points-admin.php:364
+msgid "Rejected"
+msgstr "Rechazado"
+
+#: lib/core/class-points-admin.php:224
+msgid "Comments"
+msgstr "Comentarios"
+
+#: lib/core/class-points-admin.php:250
+msgid "Others"
+msgstr "Otros"
+
+#: lib/core/class-points-admin.php:253
+msgid "Welcome points"
+msgstr "Puntos de bienvenida"
+
+#: lib/core/class-points-admin.php:278
+msgid "Access denied."
+msgstr "Acceso denegado."
+
+#: lib/core/class-points-admin.php:309
+msgid "New Points"
+msgstr "Nuevos puntos"
+
+#: lib/core/class-points-admin.php:311
+msgid "Edit Points"
+msgstr "Editar puntos"
+
+#: lib/core/class-points-admin.php:326
+msgid "User ID"
+msgstr "ID usuario"
+
+#: lib/core/class-points-admin.php:335
+msgid "Date & Time"
+msgstr "Fecha y hora"
+
+#: lib/core/class-points-admin.php:339
+msgid "Format : YYYY-MM-DD HH:MM:SS"
+msgstr "Formato : YYYY-MM-DD HH:MM:SS"
+
+#: lib/core/class-points-admin.php:345 lib/core/class-points-shortcodes.php:116
+msgid "Description"
+msgstr "Descripción"
+
+#: lib/core/class-points-admin.php:368 lib/core/class-points-shortcodes.php:135
+msgid "Status"
+msgstr "Estado"
+
+#: lib/core/class-points-admin.php:381
+msgid "Save"
+msgstr "Guardar"
+
+#: lib/core/class-points-admin.php:383
+msgid "Back"
+msgstr "Volver"
+
+#: lib/core/class-points-admin.php:383
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: lib/core/class-points-shortcodes.php:132
+msgid "Datetime"
+msgstr "Fecha y hora"
+
+#: lib/core/class-points-shortcodes.php:134
+msgid "Type"
+msgstr "Tipo"
+
+#: lib/core/class-points-shortcodes.php:161
+msgid "Page"
+msgstr "Página"
+
+#: lib/core/class-points-shortcodes.php:161
+msgid "of"
+msgstr "de"
+
+#: lib/core/class-points-shortcodes.php:164
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: lib/core/class-points-shortcodes.php:165
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: lib/core/class-points-widget-leaderboard.php:75
+msgid "No users"
+msgstr "Sin usuarios"
+
+#: lib/core/class-points-widget-leaderboard.php:123
+msgid "Title:"
+msgstr "Título:"
+
+#: lib/core/class-points-widget-leaderboard.php:130
+msgid "Number of users to display:"
+msgstr "Número de usuarios a mostrar:"
+
+#: lib/core/class-points-widget-leaderboard.php:139
+msgid "Order:"
+msgstr "Orden:"
+
+#: lib/core/class-points-widget-leaderboard.php:141
+msgid "Desc"
+msgstr "Desc"
+
+#: lib/core/class-points-widget-leaderboard.php:142
+msgid "Asc"
+msgstr "Asc"
+
+#: lib/ext/class-points-wordpress.php:44
+#, php-format
+msgid "Welcome User Registration %d"
+msgstr "Bienvenida registro de usuario %d"
+
+#: lib/ext/class-points-wordpress.php:60
+#, php-format
+msgid "Comment approved %d"
+msgstr "Comentario aprobado %d"
+
+#: lib/ext/class-points-wordpress.php:82
+#, php-format
+msgid "Comment posted %d"
+msgstr "Comentario publicado %d"
